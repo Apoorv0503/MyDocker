@@ -30,6 +30,7 @@ const itemsSchema = new mongoose.Schema({
   name: String,
 });
 
+
 //create a MODEL
 const Item = new mongoose.model("Item", itemsSchema);
 
