@@ -12,8 +12,8 @@
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/thumbnail?id=1uLAlVSupWbBPhXRrjtuC_oR3G_g_LLSh)
+![App Screenshot](https://drive.google.com/uc?id=1uLAlVSupWbBPhXRrjtuC_oR3G_g_LLSh)
 
-![App Screenshot](https://drive.google.com/thumbnail?id=1ywb9XTxgyC30NpDW31D9m3UJgVljM5gZ)
+![App Screenshot](https://drive.google.com/uc?id=1ywb9XTxgyC30NpDW31D9m3UJgVljM5gZ)
 
-![App Screenshot](https://drive.google.com/thumbnail?id=1iMHjLIAPWxsrQ2e8BwnPoemMMr4uHVZB)
+![App Screenshot](https://drive.google.com/uc?id=1iMHjLIAPWxsrQ2e8BwnPoemMMr4uHVZB)
